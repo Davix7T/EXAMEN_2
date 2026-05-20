@@ -21,7 +21,7 @@ const Login = () => {
       const response = await login(username, password);
       const userData = response.data;
 
-      // Guardar token y datos en contexto y localStorage
+      // Guardado de token y datos en contexto y localStorage
       setAuth(userData.token, userData);
 
       navigate("/dashboard");
