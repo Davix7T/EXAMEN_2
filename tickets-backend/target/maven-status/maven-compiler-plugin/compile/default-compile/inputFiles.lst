@@ -1,48 +1,48 @@
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\config\DataInitializer.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\config\SecurityConfig.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\controller\AuthController.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\controller\CategoryController.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\controller\CommentController.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\controller\TicketController.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\controller\UserController.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\AssignTicketRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\CategoryRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\CommentRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\LoginRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\RegisterRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\TicketRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\request\UpdateStatusRequest.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\ApiResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\CategoryResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\CommentResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\JwtResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\TicketResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\dto\response\UserResponse.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\entity\Category.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\entity\Comment.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\entity\Ticket.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\entity\User.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\enums\Priority.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\enums\Role.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\enums\TicketStatus.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\exception\BadRequestException.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\exception\GlobalExceptionHandler.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\exception\ResourceNotFoundException.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\repository\CategoryRepository.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\repository\CommentRepository.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\repository\TicketRepository.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\repository\UserRepository.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\security\JwtAuthenticationFilter.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\security\JwtTokenProvider.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\security\UserDetailsServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\AuthService.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\CategoryService.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\CommentService.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\impl\AuthServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\impl\CategoryServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\impl\CommentServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\impl\TicketServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\impl\UserServiceImpl.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\TicketService.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\service\UserService.java
-D:\UDENAR\Docente\Electiva programación Web\Spring Boot\tickets-backend\src\main\java\com\soporte\tickets\TicketsApplication.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\config\DataInitializer.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\config\SecurityConfig.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\controller\AuthController.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\controller\CategoryController.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\controller\CommentController.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\controller\TicketController.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\controller\UserController.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\AssignTicketRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\CategoryRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\CommentRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\LoginRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\RegisterRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\TicketRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\request\UpdateStatusRequest.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\ApiResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\CategoryResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\CommentResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\JwtResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\TicketResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\dto\response\UserResponse.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\entity\Category.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\entity\Comment.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\entity\Ticket.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\entity\User.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\enums\Priority.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\enums\Role.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\enums\TicketStatus.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\exception\BadRequestException.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\exception\GlobalExceptionHandler.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\exception\ResourceNotFoundException.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\repository\CategoryRepository.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\repository\CommentRepository.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\repository\TicketRepository.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\repository\UserRepository.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\security\JwtAuthenticationFilter.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\security\JwtTokenProvider.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\security\UserDetailsServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\AuthService.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\CategoryService.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\CommentService.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\impl\AuthServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\impl\CategoryServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\impl\CommentServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\impl\TicketServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\impl\UserServiceImpl.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\TicketService.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\service\UserService.java
+C:\Users\Udenar_\Documents\tickets-backend\tickets-backend\src\main\java\com\soporte\tickets\TicketsApplication.java

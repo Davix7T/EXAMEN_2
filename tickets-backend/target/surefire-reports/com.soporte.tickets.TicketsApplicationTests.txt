@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.soporte.tickets.TicketsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.986 s -- in com.soporte.tickets.TicketsApplicationTests
